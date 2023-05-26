@@ -1,5 +1,5 @@
 # Today's Weather
-## <a href="https://nitin-weather-app.netlify.app/">Project Link</a>
+## <a href="https://nitin-weather-app.netlify.app/" target="_blank">Project Link</a>
 Live Demo 
 
 ![Untitled](https://user-images.githubusercontent.com/44949877/199717578-5fe2a63e-7b02-4660-9a05-a3b9ac82248a.png)
